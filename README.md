@@ -70,4 +70,4 @@ $ cast --help
 >>>>>>> 10b7c76 (initial commit)
 
 # About 
-This is a crowd funding app
+This is a crowd funding app and our target get money is one billion usd
