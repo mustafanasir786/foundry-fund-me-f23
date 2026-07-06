@@ -68,3 +68,6 @@ $ anvil --help
 $ cast --help
 ```
 >>>>>>> 10b7c76 (initial commit)
+
+# About 
+This is a crude funding app
